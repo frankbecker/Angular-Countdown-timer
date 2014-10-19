@@ -9,4 +9,4 @@ In order to run Jasming tests, just run command : "karma start karma.conf.js" , 
 <br>
 I would like to thank the folks at DataRobot for giving me the opportunity to build this code exercise. I thought it was very cool, it was an eye opener. Now I understand why Angular is becoming so popular, it was extremely easy to test the code. I am obviously going to have this tool under my belt in the near future.
 <br>
-I complete the requested tasks, and still have an additional day, but I am going to be running around all day tomorrow, but this has covered all your requests, even the bonuses. I did not get too crazy with Directives.
+I completed the requested tasks, and still have an additional day, but I am going to be running around all day tomorrow, but this has covered all your requests, even the bonuses. I did not get too crazy with Directives.
