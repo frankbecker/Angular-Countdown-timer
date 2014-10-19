@@ -1,0 +1,10 @@
+<div class="myFirstController">
+<h2>Countdown Timer</h2>
+<b>Please enter a number between 1 and 20</b>
+<form>
+<input ng-model="time_selection" value="" />
+<span style="color:{{ color }}"> {{time_run_down}} </span>
+<button data-ng-click="runTimer(time_selection)">Run Timer</button>
+<div ng-show="show" class="warning">Please enter a number between 1 and 20</div>
+</form>
+</div>

@@ -1,0 +1,28 @@
+.myFirstController{
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
+h2{
+    display: block;
+}
+span{
+    font-size: 80px;
+    display: block;
+}
+button{
+    font-size: 20px;
+}
+.warning{
+    color: red;
+    margin-top: 20px;
+    font-size: 18px;
+}
+input{
+    font-size: 20px;
+    text-align: center;
+    width: 100px;
+    border: 2px solid;
+    margin-top: 10px;
+}
